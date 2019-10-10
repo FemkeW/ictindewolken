@@ -1,4 +1,17 @@
 body {
-  width: 50%
-  text-align: center
+  display: table;
+  height: 100%;
+  background: white;
+  width: 75%;
+  margin: 20px;
+}
+
+p {
+  display: table-cell;
+  margin: 0;
+  background: black;
+  color: white;
+  padding: 20px;
+  border: 10px solid white;
+  vertical-align: middle;
 }
