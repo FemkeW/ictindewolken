@@ -1,17 +1,21 @@
 body {
-  display: table;
-  height: 50%;
-  background: orange;
-  width: 100%;
-  margin: 20px;
+  background: white;
+  height: 500px;
+  width: 60%;
+  margin:0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+  overflow: auto;
 }
 
 div {
-  display: table-cell;
-  margin: 0;
-  background: black;
+  background: orange
   color: white;
+  width: 75%
   padding: 20px;
-  border: 10px solid white;
-  vertical-align: middle;
+  resize: both;
+  overflow: auto
 }
