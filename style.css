@@ -6,7 +6,7 @@ body {
   margin: 20px;
 }
 
-p {
+div {
   display: table-cell;
   margin: 0;
   background: black;
