@@ -5,3 +5,7 @@ body{
 h1 {
   border-bottom: 3px solid black;
 }
+
+p {
+  font-size: 12;
+}
