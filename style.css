@@ -9,7 +9,3 @@ h1 {
 p {
   font-size: 18px;
 }
-
-.rotateimg{
-  transform: rotate(90deg);
-}
