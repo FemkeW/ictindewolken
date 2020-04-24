@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Big Data</title>
+  </head>
+  <body>
+    <h1>Big Data: COVID-19</h1>
+      Dit blok werk ik op <a href = https://www.kaggle.com/femkew>kaggle.com</a>.
+  </body>
+</html>
